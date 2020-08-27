@@ -41,7 +41,7 @@ const selectDifferentDrivers = function (array, fn) {
    return fn(array)
 }
 
-console.log(selectDifferentDrivers(drivers, returnFirstTwoDrivers))
+// console.log(selectDifferentDrivers(drivers, returnFirstTwoDrivers))
 
 
 
